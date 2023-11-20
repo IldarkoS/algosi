@@ -1,0 +1,1 @@
+It's repository for playing with data structures and algorythms
